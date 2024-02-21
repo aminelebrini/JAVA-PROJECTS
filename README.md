@@ -17,6 +17,8 @@
 <p align="left">
 <a href="https://twitter.com/AmineLebrini4" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="AmineLebrini4" height="30" width="40" /></a><a href="https://linkedin.com/in/Amine LEBRINI" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Amine LEBRINI" height="30" width="40" /></a><a href="https://www.youtube.com/c/TECHNO CODING" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="TECHNO CODING" height="30" width="40" /></a><a href="https://instagram.com/techno_coding_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="techno_coding_" height="30" width="40" /></a></p>
 
+[![LeetCode user aminelebrini](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faminelebrini&logo=leetcode&logoColor=yellow)](https://leetcode.com/aminelebrini/)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
